@@ -628,7 +628,7 @@ async def is_bot_admin_in_channel(bot, channel: str) -> bool:
 def main_keyboard(is_admin: bool = False):
     buttons = [
         [InlineKeyboardButton("🛒 خرید سرویس", callback_data="buy_service")],
-        [InlineKeyboardButton("🌐 پروکسی", callback_data="proxy_menu", style="danger")],
+        [InlineKeyboardButton("🌐 پروکسی", callback_data="proxy_menu"],
         [InlineKeyboardButton("📦 سرویس‌های من", callback_data="my_services"),
          InlineKeyboardButton("🧪 اکانت تست", callback_data="test_account")],
         [InlineKeyboardButton("💰 کیف پول", callback_data="wallet"),
