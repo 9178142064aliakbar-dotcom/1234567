@@ -27,7 +27,7 @@ WALLET_BONUS_MIN = 300000      # حداقل مبلغ برای دریافت هد�
 WALLET_BONUS_PERCENT = 5       # درصد هدیه
 
 # ==================== تنظیمات ====================
-BOT_TOKEN = "8865620196:AAEG6AfrJvaJTAbu-c5o2kCHOIPo_uUDoqM"          # توکن ربات
+BOT_TOKEN = "8865620196:AAHzsrcyh5Ql0oAqGPlTfn0DSfwPZ7vyzxE"          # توکن ربات
 ADMIN_ID = 8837001390                      # آیدی عددی ادمین
 CHANNEL_USERNAME = "@nexroofficial"        # کانال جوین اجباری
 SUPPORT_USERNAME = "@RoTex8"               # پشتیبانی
